@@ -64,3 +64,27 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Project Operation Requirements
+
+How to run the project
+
+
+> Xampp
+
+- run Apache
+- Create a New Datanase Name myprojects
+- open the projects with any code editor
+- open the terminal
+- Write `composer install`
+- Then write `npm install` && `npm run dev`
+- `php artisan serve`
+-  Craete a new database name `blog`
+- `php artisan migrate --seed`
+- change the file name `env.example` to `.env`
+- .env Url => APP_URL=http://127.0.0.1:8000/posts
+- .env database => DB_DATABASE=blog
+---------------------------
+[http://127.0.0.1:8000/posts](http://127.0.0.1:8000/posts)
+---------------------------
