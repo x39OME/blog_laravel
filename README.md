@@ -88,3 +88,5 @@ How to run the project
 ---------------------------
 [http://127.0.0.1:8000/posts](http://127.0.0.1:8000/posts)
 ---------------------------
+
+![Blog Posts](https://github.com/x39OME/blog_laravel/blob/main/blog.posts.jpg)
